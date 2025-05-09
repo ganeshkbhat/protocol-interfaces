@@ -79,7 +79,6 @@ HTTPServer.prototype.listen = async function (port, address = '0.0.0.0') {
       });
     }
 
-
     self.server.on('error', (err) => {
       console.error('HTTP(S) server error:', err);
       self.call('error', err, 'listen');

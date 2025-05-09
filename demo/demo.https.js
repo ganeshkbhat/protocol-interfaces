@@ -1,5 +1,5 @@
 // Example usage:
-const { HTTPServer } = require('./i.s.js'); // Adjust the path
+const { HTTPServer } = require('./index'); // Adjust the path
 
 const httpServer = new HTTPServer();
 

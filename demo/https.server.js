@@ -2,7 +2,7 @@ const http = require('http');
 const https = require('https');
 const fs = require('fs'); // For HTTPS key/cert
 
-const { ProtocolServer } = require('./protocol-server'); // Adjust the path if needed
+const { ProtocolServer } = require('../index'); // Adjust the path if needed
 
 // HTTP Server (Function Implementation)
 function HTTPServer() {
