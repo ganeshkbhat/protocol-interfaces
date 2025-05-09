@@ -4,10 +4,13 @@
   "description": "protocol interface implementations for common use cases client-server like http https udp tcp ftp ftps sftp sockets ws wss tls",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "mocha --reporter spec --recursive --timeout 60000"
+  },
+  "directories": {
+    "test": "./test"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ganesh B <desktopcgi@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "chai": "^5.2.0",
