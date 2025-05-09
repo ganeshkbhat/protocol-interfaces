@@ -1,5 +1,5 @@
 {
-  "name": "interfaces-protocols",
+  "name": "protocol-interfaces",
   "version": "1.0.0",
   "description": "protocol interface implementations for common use cases client-server like http https udp tcp ftp ftps sftp sockets ws wss tls",
   "main": "index.js",
