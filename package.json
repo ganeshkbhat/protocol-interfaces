@@ -9,7 +9,11 @@
   "directories": {
     "test": "./test"
   },
-  "keywords": [],
+  "keywords": [
+    "protocol-interfaces",
+    "protocol",
+    "interfaces"
+  ],
   "author": "Ganesh B <desktopcgi@gmail.com>",
   "license": "MIT",
   "devDependencies": {
