@@ -12,7 +12,18 @@
   "keywords": [
     "protocol-interfaces",
     "protocol",
-    "interfaces"
+    "interfaces",
+    "http", 
+    "https", 
+    "udp", 
+    "tcp", 
+    "ftp", 
+    "ftps", 
+    "sftp", 
+    "sockets", 
+    "ws", 
+    "wss", 
+    "tls"
   ],
   "author": "Ganesh B <desktopcgi@gmail.com>",
   "license": "MIT",
